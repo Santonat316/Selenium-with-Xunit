@@ -1,0 +1,14 @@
+C:\Users\santosh\source\repos\SearchTestSuite\SearchTestSuite\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\santosh\source\repos\SearchTestSuite\SearchTestSuite\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\santosh\source\repos\SearchTestSuite\SearchTestSuite\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\santosh\source\repos\SearchTestSuite\SearchTestSuite\bin\Debug\netcoreapp2.1\SearchTestSuite.deps.json
+C:\Users\santosh\source\repos\SearchTestSuite\SearchTestSuite\bin\Debug\netcoreapp2.1\SearchTestSuite.runtimeconfig.json
+C:\Users\santosh\source\repos\SearchTestSuite\SearchTestSuite\bin\Debug\netcoreapp2.1\SearchTestSuite.runtimeconfig.dev.json
+C:\Users\santosh\source\repos\SearchTestSuite\SearchTestSuite\bin\Debug\netcoreapp2.1\SearchTestSuite.dll
+C:\Users\santosh\source\repos\SearchTestSuite\SearchTestSuite\obj\Debug\netcoreapp2.1\SearchTestSuite.csprojAssemblyReference.cache
+C:\Users\santosh\source\repos\SearchTestSuite\SearchTestSuite\obj\Debug\netcoreapp2.1\SearchTestSuite.csproj.CoreCompileInputs.cache
+C:\Users\santosh\source\repos\SearchTestSuite\SearchTestSuite\obj\Debug\netcoreapp2.1\SearchTestSuite.AssemblyInfoInputs.cache
+C:\Users\santosh\source\repos\SearchTestSuite\SearchTestSuite\obj\Debug\netcoreapp2.1\SearchTestSuite.AssemblyInfo.cs
+C:\Users\santosh\source\repos\SearchTestSuite\SearchTestSuite\bin\Debug\netcoreapp2.1\SearchTestSuite.pdb
+C:\Users\santosh\source\repos\SearchTestSuite\SearchTestSuite\obj\Debug\netcoreapp2.1\SearchTestSuite.dll
+C:\Users\santosh\source\repos\SearchTestSuite\SearchTestSuite\obj\Debug\netcoreapp2.1\SearchTestSuite.pdb
